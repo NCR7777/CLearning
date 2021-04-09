@@ -18,7 +18,7 @@ void chapter16();
 void chapter17();
 
 int main(void) {
-    // chapter2(); // 第二章
-    chapter3(); // 第三章
+    chapter2(); // 第二章
+    // chapter3(); // 第三章
     return 0;
 }

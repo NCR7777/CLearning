@@ -6,11 +6,10 @@
 void one_three();
 void two();
 
-int chapter2(void) {
+void chapter2(void) {
     printf("Starting now\n");
     one_three();
     printf("Done!\n");
-    return 0;
 }
 
 void one_three(){
