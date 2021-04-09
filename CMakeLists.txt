@@ -3,4 +3,4 @@ project(CLearning C)
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(CLearning main.c)
+add_executable(CLearning main.c chapter3.c)

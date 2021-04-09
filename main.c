@@ -3,10 +3,13 @@
 void one_three();
 void two();
 
+void chapter3();
+
 int main(void) {
     printf("Starting now\n");
     one_three();
-    printf("Done!");
+    printf("Done!\n");
+    chapter3();
     return 0;
 }
 
