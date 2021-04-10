@@ -4,6 +4,7 @@
 #include <stdio.h>
 
 void one_three();
+
 void two();
 
 void chapter2(void) {
@@ -12,12 +13,12 @@ void chapter2(void) {
     printf("Done!\n");
 }
 
-void one_three(){
+void one_three() {
     printf("One\n");
     two();
     printf("Three\n");
 }
 
-void two(){
+void two() {
     printf("Two\n");
 }
