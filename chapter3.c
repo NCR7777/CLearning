@@ -14,7 +14,7 @@ void chapter3() {
     short end = 200;
     long big = 65537;
     long long veryBig = 12345678908642;
-    char a = '\a';
+    // char a = '\a';
 
     printf("un = %u and not %d\n", un, un);
     printf("end = %hd and %d\n", end, end);
